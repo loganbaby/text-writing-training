@@ -2,10 +2,9 @@ body {
     padding-top: 20px;
     font-family: Roboto, sans-serif;
     text-align: center;
-    background: rgb(0, 0, 0);
     color: #222;
     padding-bottom: 40px;
-    background: url(https://djave.co.uk/hosted/subtlepatterns/lightpaperfibers.png);
+    background: url(https://bogatyr.club/uploads/posts/2021-11/1636920747_1-bogatyr-club-p-fon-dlya-prilozheniya-1.jpg);
   }
   
   .mono {
@@ -49,7 +48,7 @@ body {
   }
   
   .target {
-    color: #fff;
+    color: rgb(45, 175, 116);
     text-align: left;
     font-size: 32px;
     min-width: 300px;
